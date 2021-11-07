@@ -1,0 +1,25 @@
+{
+  "name": "Projeto_Loto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wes-m-martins/Sonhei_com_a_Loto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wes-m-martins/Sonhei_com_a_Loto/issues"
+  },
+  "homepage": "https://github.com/wes-m-martins/Sonhei_com_a_Loto#readme",
+  "dependencies": {
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
