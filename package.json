@@ -18,13 +18,16 @@
   },
   "homepage": "https://github.com/wes-m-martins/Sonhei_com_a_Loto#readme",
   "dependencies": {
+    "babel-register": "^6.26.0",
     "next": "^12.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
     "babel-core": "^6.26.3",
-    "babel-loader": "^8.2.3"
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.62.1"
   }
 }
